@@ -1,0 +1,32 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "main",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart"
+    },
+    {
+      "name": "exemplo_01_a_mesma_tela_com_callbacks_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_01_a_mesma_tela_com_callbacks_inicio.dart"
+    },
+    {
+      "name": "exemplo_02_os_dois_que_o_enum_nao_tem_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_02_os_dois_que_o_enum_nao_tem_inicio.dart"
+    },
+    {
+      "name": "exemplo_03_segurando_o_fechamento_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_03_segurando_o_fechamento_inicio.dart"
+    }
+  ]
+}
