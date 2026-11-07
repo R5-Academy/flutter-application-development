@@ -1,0 +1,50 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "main",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart"
+    },
+    {
+      "name": "exemplo_01_mounted_apos_await_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_01_mounted_apos_await_inicio.dart"
+    },
+    {
+      "name": "exemplo_02_carga_no_initstate_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_02_carga_no_initstate_inicio.dart"
+    },
+    {
+      "name": "exemplo_03_timer_no_dispose_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_03_timer_no_dispose_inicio.dart"
+    },
+    {
+      "name": "exemplo_04_stream_subscription_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_04_stream_subscription_inicio.dart"
+    },
+    {
+      "name": "exemplo_05_ciclo_de_vida_do_app_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_05_ciclo_de_vida_do_app_inicio.dart"
+    },
+    {
+      "name": "exemplo_06_tudo_junto_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_06_tudo_junto_inicio.dart"
+    }
+  ]
+}
