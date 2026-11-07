@@ -1,0 +1,32 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "main",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart"
+    },
+    {
+      "name": "exemplo_01_o_espiao_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_01_o_espiao_inicio.dart"
+    },
+    {
+      "name": "exemplo_02_os_quatro_callbacks_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_02_os_quatro_callbacks_inicio.dart"
+    },
+    {
+      "name": "exemplo_03_o_dialogo_e_a_tela_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_03_o_dialogo_e_a_tela_inicio.dart"
+    }
+  ]
+}
