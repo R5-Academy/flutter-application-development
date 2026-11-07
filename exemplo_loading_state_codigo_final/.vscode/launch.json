@@ -1,0 +1,38 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "main",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/main.dart"
+    },
+    {
+      "name": "exemplo_01_indicadores_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_01_indicadores_inicio.dart"
+    },
+    {
+      "name": "exemplo_02_loading_no_snapshot_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_02_loading_no_snapshot_inicio.dart"
+    },
+    {
+      "name": "exemplo_03_progresso_determinado_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_03_progresso_determinado_inicio.dart"
+    },
+    {
+      "name": "exemplo_05_ux_completa_inicio",
+      "request": "launch",
+      "type": "dart",
+      "program": "lib/exemplo_05_ux_completa_inicio.dart"
+    }
+  ]
+}
